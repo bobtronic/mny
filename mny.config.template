@@ -1,0 +1,6 @@
+{
+        "authentication": {
+                "user_token": "PUT YOUR USER TOKEN HERE",
+                "app_token": "PUT YOUR APP TOKEN HERE"
+        }
+}
